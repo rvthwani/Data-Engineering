@@ -2,8 +2,8 @@
 # DBTITLE 1,Step 1 :- Extract data from Azure SQL 
 jdbcHostname = "ke****.database.windows.net"
 jdbcPort = 1433
-jdbcDatabase = "keshavdb"
-jdbcUsername = "ksinha"
+jdbcDatabase = "k*****"
+jdbcUsername = "k****"
 jdbcPassword = "*******"
 jdbcDriver = "com.microsoft.sqlserver.jdbc.SQLServerDriver"
 
